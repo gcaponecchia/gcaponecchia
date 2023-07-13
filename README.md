@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gcaponecchia
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m a Data Scientist
 - 📫 You can reach me at https://www.linkedin.com/in/giulio-caponecchia 
 
 <!---
